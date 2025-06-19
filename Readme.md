@@ -1,3 +1,3 @@
 # Backend Project with JavaScript
 
-A video maitainace and watchable application to understand backend functionalities.
+A video maitainance and watchable application to understand backend functionalities.
