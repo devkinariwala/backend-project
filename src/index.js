@@ -8,7 +8,7 @@ import { app } from "./app.js";
 // const app = express();
 
 dontenv.config({
-  path: "./env",
+  path: "./.env",
 });
 
 connectDB()
